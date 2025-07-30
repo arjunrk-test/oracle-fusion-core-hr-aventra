@@ -37,7 +37,7 @@ This document outlines how Reference Data Sets (RDS) are assigned to Business Un
 
 ## 🔜 Enterprise Structure Complete!
 
-You're now ready to start:
+Next up:
 
 - Workforce Structures (Jobs, Grades, Positions)
 - Security, Approvals, and Workforce Lifecycle

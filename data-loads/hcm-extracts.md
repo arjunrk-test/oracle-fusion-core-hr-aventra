@@ -55,6 +55,5 @@ For real-world client readiness, prepare:
 
 ---
 
-✅ With this, your entire HCM data flow (input → change → output) is complete.
 
 Next up: Build `reports-analytics/` folder to document OTBI and dashboards.
