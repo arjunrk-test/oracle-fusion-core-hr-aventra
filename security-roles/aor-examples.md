@@ -57,4 +57,4 @@ This document outlines how Aventra Global Holdings uses AOR (Area of Responsibil
 ---
 
 ✅ Security model complete!
-You're now ready to document **approvals and checklist automation** in the next section.
+Next up **approvals and checklist automation**.

@@ -52,5 +52,4 @@ This document outlines the termination (offboarding) checklist templates used in
 
 ---
 
-✅ With this, your HCM process automation via checklists is fully documented.
 Next up: Document **Flexfields and Value Sets** in the next section.

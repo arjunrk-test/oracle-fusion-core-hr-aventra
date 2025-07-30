@@ -62,6 +62,4 @@ This document outlines the Global Transfer functionality in Oracle Fusion HCM, u
 
 ---
 
-🎉 You’ve completed the full **Hire → Transfer → Global Movement → Termination** cycle!
-
-Next up: Document **Security & Roles**
+🎉 Next up: Document **Security & Roles**
