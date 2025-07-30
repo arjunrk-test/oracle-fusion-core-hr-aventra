@@ -25,3 +25,9 @@ This document outlines the countries included in the Aventra Global Holdings Cor
 | UK LDG        | UK          | NI Number fields, local employment types                |
 | USA LDG       | USA         | SSN, 401K, USA-specific validations                     |
 | Global LDG    | Global      | For shared jobs, grades, departments across countries   |
+
+---
+
+## 🔗 Next Step
+
+→ [legal-entities.md](legal-entities.md): Define the legal entities and associate them with LDGs
