@@ -39,4 +39,4 @@ This document outlines the Divisions and Departments under Aventra Global Holdin
 
 ## 🔜 Next Step
 
-→ [set-assignments.md](set-assignments.md): Configure Reference Data Set access for each BU.
+→ [locations.md](locations.md): Configure locations.
