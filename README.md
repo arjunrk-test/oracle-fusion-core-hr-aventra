@@ -58,4 +58,4 @@ This project will act as a learning reference, client prep toolkit, and portfoli
 **Note:** This Enterprise will be created mostly with the manual tasks, only the basic details will be setup in the wizard (Enterprise Structure Configurator) 
 
 Starting this by creating an implementation project in `Manage Implementation Project` task. 
-These steps are recorded in [implementation-project.md](implementation-project.md)
+These steps are recorded in [implementation-project.md](./enterprise-structure/implementation-project.md)
