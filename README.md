@@ -20,6 +20,17 @@ This repository documents the complete Core HR module setup in Oracle Cloud HCM 
 - **Countries**: UAE, India, UK, USA, Singapore
 - **Industries**: IT, Manufacturing, Retail, Consulting
 
+## 📜 Sample Legal Details
+
+| Field                             | Value                                                 |
+|-----------------------------------|-------------------------------------------------------|
+| Legal Name	                    | Aventra Global Holdings FZ-LLC                        |
+| Legal Entity Identifier           | AGH-UAE-001                                           |
+| Legal Entity Registeration Number | 9876543210                                            |
+| Legal Reporting Unit Reg. Number  | AGH-RPT-001                                           |
+| Legal Address	                    | Select from dropdown or create one with sample values |
+
+
 ---
 
 ## 📂 Folder Structure
@@ -43,3 +54,8 @@ This repository documents the complete Core HR module setup in Oracle Cloud HCM 
 To simulate, configure, and document a fully-realistic, implementation-ready Core HR setup for Oracle Cloud HCM.
 
 This project will act as a learning reference, client prep toolkit, and portfolio showcase.
+
+**Note:** This Enterprise will be created mostly with the manual tasks, only the basic details will be setup in the wizard (Enterprise Structure Configurator) 
+
+Starting this by creating an implementation project in `Manage Implementation Project` task. 
+These steps are recorded in [implementation-project.md](implementation-project.md)
