@@ -22,7 +22,7 @@ This repository documents the complete Core HR module setup in Oracle Cloud HCM 
 
 ---
 
-## 📂 Folder Structure (To Be Built)
+## 📂 Folder Structure
 
 - `enterprise-structure/`
 - `jobs-positions-grades/`
